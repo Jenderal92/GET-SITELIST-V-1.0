@@ -2,9 +2,9 @@
 
 python 2.7 
 
-Donation :
+Buy Coffe :
 
-BTC : 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1
+BTC : 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC
 
 Perfect Money : U22270614
 
